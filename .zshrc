@@ -134,7 +134,7 @@ export PATH="/home/sensei/.local/bin:$PATH"
 # Claude Omniroute Configuration
 export CLAUDE_CONFIG_DIR="$HOME/.claude-omniroute"
 export ANTHROPIC_BASE_URL="http://localhost:20128"
-export ANTHROPIC_AUTH_TOKEN="sk-ce5e16a0ac8ecc56-0db631-68b9e57b"
+export ANTHROPIC_AUTH_TOKEN=""
 export ANTHROPIC_API_KEY=""
 export ANROPIC_MODEL="combo-ai"
 
